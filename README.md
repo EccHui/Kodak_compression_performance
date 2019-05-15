@@ -7,6 +7,6 @@ The current compared approaches contain:
 3) JPEG (jpeg-9c / https://www.ijg.org/)
 4) JPEG2000 (openjpeg-v2.3.0 / https://www.openjpeg.org/)
 
-The compression with these methods is implemented on Matlab, and the details are in cmp_bpg_jpeg_jpg2000_webp.m .
-A rate-distortion-curve which measured by MS-SSIM is shown in ssim_comp.m .
+The compression with these methods is implemented on Matlab, and the details are in **cmp_bpg_jpeg_jpg2000_webp.m** .
+A rate-distortion-curve which measured by MS-SSIM is shown in **ssim_comp.m** .
 ![Image text](https://github.com/EccHui/Kodak_compression_performance/blob/master/comps.jpg)
